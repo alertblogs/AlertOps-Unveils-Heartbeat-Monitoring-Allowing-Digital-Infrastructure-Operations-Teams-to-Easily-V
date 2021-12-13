@@ -1,40 +1,27 @@
-AlertOps Expert Guidance
+AlertOps Unveils Heartbeat Monitoring Allowing Digital Infrastructure & Operations Teams to Easily Verify Signals from External Tools
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Heartbeat Monitoring makes it easy for teams to monitor external services and get alerted when they are down to improve service delivery.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Chicago, Illinois – October 1, 2020 – AlertOps has introduced Heartbeat Monitoring for its incident alerting, on-call management, and response platform. IT teams can use Heartbeat Monitoring to verify their monitoring tools are working properly, providing an added layer of redundancy and visibility.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Signals, or “heartbeats,” from external sources verify whether systems connected to the AlertOps platform are working properly. If a heartbeat is interrupted for a set amount of time, an alert is immediately sent to one or more designated recipients.
 
-Automate Processes
+With Heartbeat Monitoring, an alert is sent any time a heartbeat is disrupted. After the alert is resolved, the heartbeat returns to normal and AlertOps automatically closes the alert.
+
+IT team members can set up custom Heartbeat Monitor names and expiration intervals, monitor active and inactive heartbeats, and retrieve incident management and response insights. They can also set up multiple Heartbeat Monitors simultaneously and track each monitor separately.
+
+“While organizations often have monitoring tools that detect when a system crashes, there needs to be a level of monitoring that accounts for the monitoring tools themselves,” AlertOps CEO Chellasamy Jamburajan says. “Heartbeat Monitoring adds a layer of redundancy by sending an alert when a monitoring tool recognizes an issue and when a monitoring tool itself may be experiencing an issue.”
+
+Heartbeat Monitoring is available now. To learn more or to request an AlertOps demo, please contact us today.
+
+About AlertOps
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
-
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
-
+AlertOps is a leading enterprise major incident management collaboration platform. The world’s largest organizations use AlertOps to solve their most critical real-time collaboration and communications challenges.
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-unveils-heartbeat-monitoring/
 
 Read more:
 ====
